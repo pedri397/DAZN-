@@ -35,7 +35,7 @@
 
 .menu_txt:hover {
     transition-duration: 0.5s;
-    border-bottom: 1px solid rgb(242, 242, 1);
+    border-bottom: 1px solid#F7FF1A;
 }
 
 .conf_txt {
